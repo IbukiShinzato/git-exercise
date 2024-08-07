@@ -12,5 +12,5 @@
 3. 右下の「Create Repository」をクリックする。
 <img width="755" alt="スクリーンショット 2024-08-07 14 03 03" src="https://github.com/user-attachments/assets/95dd1eb7-584c-4883-8f11-d97bb99349c1">
 
-4. 以上でリポジトリが作成できる。
+4. 以上でリポジトリが作成できる
 
