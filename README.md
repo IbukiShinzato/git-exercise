@@ -1,4 +1,4 @@
-# test
+# Hello
 # 夏休み演習
 
 ## GitHubを用いたグループ開発
@@ -9,3 +9,5 @@
 2. 「Repository name*」に作成したいリポジトリの名前を記入する。
 3. 右下の「Create Repository」をクリックする。
 <img width="755" alt="スクリーンショット 2024-08-07 14 03 03" src="https://github.com/user-attachments/assets/95dd1eb7-584c-4883-8f11-d97bb99349c1">
+
+
