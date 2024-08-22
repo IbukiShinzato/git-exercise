@@ -2,7 +2,7 @@
 # 夏休み演習
 
 ## GitHubを用いたグループ開発
-### リポジトリを作成する。
+### 1.リポジトリを作成する。
 1. 自分のGithubの画面の「Repositories」に移動し,右上の「New」をクリックする。
 <kbd><img width="500" alt="スクリーンショット 2024-08-07 13 57 06" src="https://github.com/user-attachments/assets/31831688-0615-428e-a134-0c905e52ce48"><kbd>
 
@@ -14,7 +14,7 @@
 
 4. 以上でリポジトリが作成できる。
 
-### 作成したリポジトリをローカルに読み込む。
+### 2.作成したリポジトリをローカルに読み込む。
 1. 作成したリポジトリのホーム画面に移動し,右上の「Code」をクリックする。
 <kbd><img width="800" alt="スクリーンショット 2024-08-22 12 42 08" src="https://github.com/user-attachments/assets/d70c2e7d-dbb3-43b0-b7a2-37b8b8e7248b"><kbd>
 
